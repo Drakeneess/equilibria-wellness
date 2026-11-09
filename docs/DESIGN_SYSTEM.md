@@ -47,8 +47,18 @@ Se adapta el SVG vectorial de Equilibria Beauty conservando las formas originale
 - Sin inventar datos de atención, testimonios, horarios o dirección específicos.
 - Enlace institucional únicamente, hasta conocer el canal de contacto Wellness.
 
-## Isotipo de madera tostada con borde cobrizo — versión C (activa)
+## Isotipo de madera tostada con borde cobrizo — versión C (archivada)
 
 En `public/brand/equilibria-wellness-cobre-madera.svg` y `public/brand/wellness-mark-cobre-madera.svg` se conserva exactamente la geometría del símbolo y se experimenta con un **contorno metálico de cobre** y **relleno madera clara/nogal con vetas vectoriales discretas**. El nombre «EQUILIBRIA» permanece en bronce y la leyenda «WELLNESS» con sus líneas permanece en verde salvia. Los SVG utilizan patrones y degradados internos, sin imágenes ni recursos externos.
 
 **Versión activa C (inspirada en el isotipo de la fotografía de referencia):** se conserva la geometría de los pétalos y su espacio negativo. Relleno de madera tostada con contrastes ámbar y algunas vetas irregulares visibles a tamaño grande. Filete cobrizo-dorado de **6.7 unidades SVG**, con reflejos cálidos pero **sin halos ni filtros de desenfoque**. El acabado pretende evocar la iluminación del letrero de referencia sin sacrificar definición a tamaño de navbar. Nombre «EQUILIBRIA» en bronce y «WELLNESS» más líneas en verde. Logo principal, variantes e icono sincronizados. **Ajuste de tonalidad:** los rellenos de madera del isotipo y del favicon se oscurecieron aproximadamente un 10 % en sus canales RGB, sin modificar el cobre, los reflejos, la textura ni la leyenda verde.
+
+## Variante D — relleno crema con borde cobrizo (activa)
+
+El isotipo conserva sus 11 trazados, las separaciones de los pétalos y el borde de cobre de 6.7 unidades SVG. Sustituye la madera por dos degradados crema cálido sin vetas. «EQUILIBRIA» sigue en bronce y «WELLNESS», junto con sus líneas, permanece en verde salvia.
+
+- Versión aplicada al encabezado y pie: `public/brand/equilibria-wellness.svg`; isotipo `public/brand/wellness-mark.svg`; favicon `public/icon.svg`.
+- Copias independientes para comparación: `public/brand/equilibria-wellness-crema.svg` y `public/brand/wellness-mark-crema.svg`.
+- La versión madera anterior se preserva en `public/brand/equilibria-wellness-cobre-madera.svg` y `public/brand/wellness-mark-cobre-madera.svg`.
+
+Pendiente comparar visualmente a tamaño de navbar.
