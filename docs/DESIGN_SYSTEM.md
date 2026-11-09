@@ -67,7 +67,7 @@ Pendiente comparar visualmente a tamaño de navbar.
 
 - El isotipo vuelve a los 11 pétalos de madera nogal tostada, vetas cálidas y filete cobrizo de **6.7 unidades SVG**, sin halos difusos.
 - El nombre «EQUILIBRIA» ahora emplea un degradado **crema cálida/marfil** pensado para contrastar con el fondo oscuro.
-- La leyenda «WELLNESS» y las dos líneas continúan en **verde salvia**.
+- La leyenda «WELLNESS» y las dos líneas pasan a **dorado suave `#D8B07A`**, conservando el isotipo de madera oscura con borde de cobre y «EQUILIBRIA» en crema.
 - Activos: `public/brand/equilibria-wellness.svg`, `public/brand/wellness-mark.svg`, `public/icon.svg`.
 - Copia de la combinación para comparación: `public/brand/equilibria-wellness-madera-crema.svg`.
 - Se mantienen las variantes anteriores: `equilibria-wellness-crema.svg` (pétalos crema, EQUILIBRIA bronce) y `equilibria-wellness-cobre-madera.svg` (pétalos madera, EQUILIBRIA bronce).
