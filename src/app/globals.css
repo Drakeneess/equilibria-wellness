@@ -36,8 +36,13 @@ img, svg { max-width: 100%; }
 /* Header */
 .site-header { height: 88px; width: 100%; position: absolute; z-index: 30; inset: 0 0 auto; border-bottom: 1px solid rgba(236,204,156,.17); }
 .header-content { height: 100%; display: flex; align-items: center; justify-content: space-between; }
-.brand { display: inline-flex; align-items: center; min-width: 260px; }
-.brand-logo { display: block; flex: none; width: 260px; height: auto; }
+.brand { display: inline-flex; align-items: center; min-width: 260px; position: relative; isolation: isolate; border-radius: 4px; }
+.brand-logo { display: block; flex: none; width: 260px; height: auto; transform-origin: 20% 50%; transition: transform .36s cubic-bezier(.2,.8,.2,1), filter .36s ease; }
+.brand::after { content: ""; position: absolute; left: 3%; bottom: 3px; width: 94%; height: 1px; background: linear-gradient(90deg,transparent,#cba36a 35%,#f4d99d 55%,transparent); transform: scaleX(0); transform-origin: left; pointer-events: none; transition: transform .42s cubic-bezier(.2,.8,.2,1); }
+.brand:hover .brand-logo, .brand:focus-visible .brand-logo { transform: translateY(-2px) scale(1.018); filter: drop-shadow(0 3px 10px rgba(222,173,96,.34)) brightness(1.06); }
+.brand:hover::after, .brand:focus-visible::after { transform: scaleX(1); }
+.brand:active .brand-logo { transform: translateY(0) scale(.985); filter: drop-shadow(0 1px 7px rgba(222,173,96,.23)); }
+.brand--footer:hover .brand-logo, .brand--footer:focus-visible .brand-logo { filter: drop-shadow(0 2px 12px rgba(236,193,127,.34)) brightness(1.07); }
 .primary-navigation { display: flex; align-items: center; gap: clamp(18px, 2.5vw, 38px); color: #e7d3b7; font-size: 12px; letter-spacing: .035em; }
 .primary-navigation > a { padding-block: 12px; transition: color .2s; }
 .primary-navigation > a:hover { color: #eac088; }
@@ -258,4 +263,6 @@ img, svg { max-width: 100%; }
 }
 @media (prefers-reduced-motion:reduce) {
   *,*::before,*::after {scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important;}
+  .brand:hover .brand-logo, .brand:focus-visible .brand-logo, .brand:active .brand-logo { transform: none; }
+  .brand:hover::after, .brand:focus-visible::after { transform: none; }
 }
