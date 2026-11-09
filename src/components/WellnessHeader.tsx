@@ -17,8 +17,7 @@ export function WellnessHeader() {
     <header className="site-header">
       <div className="shell header-content">
         <a href="#inicio" className="brand" onClick={() => setOpen(false)} aria-label="Equilibria Wellness, ir al inicio">
-          <img src="/brand/wellness-mark.svg" width={41} height={41} alt="" aria-hidden="true" />
-          <span className="brand-lockup"><strong>EQUILIBRIA</strong><small>WELLNESS</small></span>
+          <img className="brand-logo" src="/brand/equilibria-wellness.svg" width={260} height={77} alt="" aria-hidden="true" />
         </a>
 
         <button

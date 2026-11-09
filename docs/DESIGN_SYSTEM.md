@@ -12,6 +12,18 @@ Una atmósfera de quietud y escucha. El diseño recupera el brillo del bronce en
 - Pergamino `#efe7da`: tarjetas.
 - Tinta `#241914`: texto de contraste.
 - Marrón tierra `#69584c`: texto secundario.
+- Verde hoja `#587454`: acento orgánico en títulos, pequeños símbolos y estados de interacción.
+- Verde bosque `#344f3c`: profundidad de los pétalos y etiquetas sobre superficies claras.
+- Verde salvia `#8eab81`: líneas y detalles suaves.
+- Verde niebla `#e6ebdf`: fondos de apoyo en el tercer pilar.
+
+## Logotipo
+
+Se adapta el SVG vectorial de Equilibria Beauty conservando las formas originales del isotipo y las letras **EQUILIBRIA**. Para Wellness, el símbolo incorpora degradados verdes y la leyenda secundaria se sustituye por **WELLNESS** en verde salvia claro.
+
+- `public/brand/equilibria-wellness.svg`: logotipo completo para navbar y footer.
+- `public/brand/wellness-mark.svg`: isotipo independiente (mismos trazados, paleta propia).
+- Beauty no se modifica y no se importa código de otro repositorio.
 
 ## Tipografía
 

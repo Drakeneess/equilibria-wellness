@@ -134,7 +134,7 @@ export default function HomePage() {
 
       <footer className="footer">
         <div className="shell footer-layout">
-          <a className="brand brand--footer" href="#inicio" aria-label="Equilibria Wellness, volver al inicio"><img src="/brand/wellness-mark.svg" width={45} height={45} alt="" aria-hidden="true"/><span className="brand-lockup"><strong>EQUILIBRIA</strong><small>WELLNESS</small></span></a>
+          <a className="brand brand--footer" href="#inicio" aria-label="Equilibria Wellness, volver al inicio"><img className="brand-logo" src="/brand/equilibria-wellness.svg" width={260} height={77} alt="" aria-hidden="true"/></a>
           <p>Un espacio para la calma, la escucha y el bienestar consciente.</p>
           <a className="footer-institution" href={brand.institutionUrl} target="_blank" rel="noopener noreferrer">Equilibria institucional ↗</a>
         </div>

@@ -4,7 +4,7 @@ Landing independiente de **Equilibria Beauty** para la línea Equilibria Wellnes
 
 ## Primera fase
 
-- Identidad visual propia: paleta bronce/ámbar/crema y tipografía editorial.
+- Identidad visual propia: paleta bronce/ámbar/crema con acentos de verde hoja y tipografía editorial.
 - Inicio responsive con fotografía de referencia aportada por el equipo de Equilibria.
 - Navegación adaptable a dispositivos móviles.
 - Secciones de filosofía, pilares, universo sensorial, preguntas frecuentes y cierre.
@@ -39,7 +39,8 @@ Para Vercel: importa este repositorio y establece el framework en **Next.js**, r
 - `src/app/globals.css`: sistema de estilos, animaciones y responsive.
 - `src/components/WellnessHeader.tsx`: navegación y menú móvil.
 - `public/images/hero-wellness.webp`: referencia visual de Equilibria Wellness.
-- `public/brand/wellness-mark.svg`: marca vectorial provisional basada en una flor estilizada.
+- `public/brand/equilibria-wellness.svg`: logotipo SVG adaptado de Equilibria Beauty con nombre Wellness y pétalos verde hoja.
+- `public/brand/wellness-mark.svg`: isotipo SVG adaptado de la familia Equilibria.
 
 ## Estado del contenido
 
