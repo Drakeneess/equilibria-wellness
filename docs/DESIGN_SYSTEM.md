@@ -19,10 +19,10 @@ Una atmósfera de quietud y escucha. El diseño recupera el brillo del bronce en
 
 ## Logotipo
 
-Se adapta el SVG vectorial de Equilibria Beauty conservando las formas originales del isotipo y las letras **EQUILIBRIA**. Se restaura la versión de Wellness: pétalos verde hoja, nombre **EQUILIBRIA** en bronce y leyenda **WELLNESS** en verde salvia claro.
+Se adapta el SVG vectorial de Equilibria Beauty conservando las formas originales del isotipo y las letras **EQUILIBRIA**. Combinación aprobada: **isotipo dorado**, nombre **EQUILIBRIA** en bronce y leyenda **WELLNESS** con sus líneas decorativas en verde salvia claro.
 
 - `public/brand/equilibria-wellness.svg`: logotipo completo para navbar y footer.
-- `public/brand/wellness-mark.svg`: isotipo independiente con degradados verde hoja.
+- `public/brand/wellness-mark.svg`: isotipo independiente con degradados dorados.
 - Interacción del logotipo del header y footer: ligera elevación, resplandor verde y subrayado al pasar el cursor o enfocar con teclado. Clic/tap vuelve a `#inicio`. Se deshabilita el movimiento con `prefers-reduced-motion`.
 - Beauty no se modifica y no se importa código de otro repositorio.
 
