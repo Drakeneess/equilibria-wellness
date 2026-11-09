@@ -53,7 +53,7 @@ En `public/brand/equilibria-wellness-cobre-madera.svg` y `public/brand/wellness-
 
 **Versión activa C (inspirada en el isotipo de la fotografía de referencia):** se conserva la geometría de los pétalos y su espacio negativo. Relleno de madera tostada con contrastes ámbar y algunas vetas irregulares visibles a tamaño grande. Filete cobrizo-dorado de **6.7 unidades SVG**, con reflejos cálidos pero **sin halos ni filtros de desenfoque**. El acabado pretende evocar la iluminación del letrero de referencia sin sacrificar definición a tamaño de navbar. Nombre «EQUILIBRIA» en bronce y «WELLNESS» más líneas en verde. Logo principal, variantes e icono sincronizados. **Ajuste de tonalidad:** los rellenos de madera del isotipo y del favicon se oscurecieron aproximadamente un 10 % en sus canales RGB, sin modificar el cobre, los reflejos, la textura ni la leyenda verde.
 
-## Variante D — relleno crema con borde cobrizo (activa)
+## Variante D — relleno crema con borde cobrizo (archivada)
 
 El isotipo conserva sus 11 trazados, las separaciones de los pétalos y el borde de cobre de 6.7 unidades SVG. Sustituye la madera por dos degradados crema cálido sin vetas. «EQUILIBRIA» sigue en bronce y «WELLNESS», junto con sus líneas, permanece en verde salvia.
 
@@ -62,3 +62,14 @@ El isotipo conserva sus 11 trazados, las separaciones de los pétalos y el borde
 - La versión madera anterior se preserva en `public/brand/equilibria-wellness-cobre-madera.svg` y `public/brand/wellness-mark-cobre-madera.svg`.
 
 Pendiente comparar visualmente a tamaño de navbar.
+
+## Variante E — madera oscura y EQUILIBRIA crema (activa)
+
+- El isotipo vuelve a los 11 pétalos de madera nogal tostada, vetas cálidas y filete cobrizo de **6.7 unidades SVG**, sin halos difusos.
+- El nombre «EQUILIBRIA» ahora emplea un degradado **crema cálida/marfil** pensado para contrastar con el fondo oscuro.
+- La leyenda «WELLNESS» y las dos líneas continúan en **verde salvia**.
+- Activos: `public/brand/equilibria-wellness.svg`, `public/brand/wellness-mark.svg`, `public/icon.svg`.
+- Copia de la combinación para comparación: `public/brand/equilibria-wellness-madera-crema.svg`.
+- Se mantienen las variantes anteriores: `equilibria-wellness-crema.svg` (pétalos crema, EQUILIBRIA bronce) y `equilibria-wellness-cobre-madera.svg` (pétalos madera, EQUILIBRIA bronce).
+
+La interacción hover/foco y la navegación al inicio se mantienen sin cambios. Validar visualmente a escala de navbar antes de dar por aprobada la identidad.
