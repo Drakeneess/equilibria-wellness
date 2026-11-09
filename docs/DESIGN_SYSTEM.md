@@ -46,3 +46,9 @@ Se adapta el SVG vectorial de Equilibria Beauty conservando las formas originale
 - Sin atribuir eficacia clínica a sonidos o cuencos.
 - Sin inventar datos de atención, testimonios, horarios o dirección específicos.
 - Enlace institucional únicamente, hasta conocer el canal de contacto Wellness.
+
+## Exploración: cobre y madera (variante opcional)
+
+En `public/brand/equilibria-wellness-cobre-madera.svg` y `public/brand/wellness-mark-cobre-madera.svg` se conserva exactamente la geometría del símbolo y se experimenta con un **contorno metálico de cobre** y **relleno madera clara/nogal con vetas vectoriales discretas**. El nombre «EQUILIBRIA» permanece en bronce y la leyenda «WELLNESS» con sus líneas permanece en verde salvia. Los SVG utilizan patrones y degradados internos, sin imágenes ni recursos externos.
+
+Esta propuesta **no reemplaza el logo vigente**. Está disponible para evaluación visual antes de aplicarla al encabezado, pie de página o favicon.
