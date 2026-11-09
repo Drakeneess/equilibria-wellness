@@ -47,8 +47,8 @@ Se adapta el SVG vectorial de Equilibria Beauty conservando las formas originale
 - Sin inventar datos de atención, testimonios, horarios o dirección específicos.
 - Enlace institucional únicamente, hasta conocer el canal de contacto Wellness.
 
-## Isotipo de cobre y madera — versión legible (activa)
+## Isotipo de cobre dominante y madera tenue — versión B (activa)
 
 En `public/brand/equilibria-wellness-cobre-madera.svg` y `public/brand/wellness-mark-cobre-madera.svg` se conserva exactamente la geometría del símbolo y se experimenta con un **contorno metálico de cobre** y **relleno madera clara/nogal con vetas vectoriales discretas**. El nombre «EQUILIBRIA» permanece en bronce y la leyenda «WELLNESS» con sus líneas permanece en verde salvia. Los SVG utilizan patrones y degradados internos, sin imágenes ni recursos externos.
 
-**Versión activa refinada:** se retiraron por completo los halos difusos que dificultaban distinguir los pétalos a escala de navbar. El símbolo tiene madera nogal contrastada con veta tenue y un filete limpio de cobre metálico de 4.3 unidades SVG; el brillo queda representado únicamente por los reflejos del gradiente. El hover aplica una sombra mínima. Los SVG principal, alternativo, isotipo y favicon permanecen sincronizados.
+**Versión activa B (cobre dominante):** el contorno pasa a **12 unidades SVG**, aproximadamente 2.8 veces el grosor anterior, con un degradado de cobre pulido y sin halos. El relleno se mantiene en marrón madera prácticamente uniforme: gradientes de bajo contraste y solo dos vetas de opacidad inferior al 7% por patrón. Se preservan el bronce de «EQUILIBRIA», el verde de «WELLNESS» y sus líneas. La interacción aporta únicamente un leve realce. Logotipo principal, isotipo, variantes y favicon sincronizados.
